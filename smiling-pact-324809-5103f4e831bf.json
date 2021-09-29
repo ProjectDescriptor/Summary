@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "smiling-pact-324809",
+  "private_key_id": "5103f4e831bf1ab8a6b02f86d6a63e67ecd5106b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC/KsBLTCnsPiIU\nCv5YnGlmy2TrkmxAugm9vTT+FaDWV3qJ5K+lKdzh694akBRWDsDbLkrsyM8AaNsR\nNnRXzM5rb0W/2Jv/fL5N7W3nXjetl5EPJLlxPzLzvqArS89F20ftqgK40DkR/7T0\nm1WM0iiEl7lQKw7fSnWGxABY71T49CzwGp9ubMfxzkr9SzYLq6cdh65hr3Z9rZAE\ngqR9slhA3k5UxstNplYwZ4SpBlm9FnCXhNQvP6EFHM/iQDYT+bGj+nCWT0sFwc9G\nAJzInuTzFYXNnjWHIDbLFO+ojgVWsG7b+aj9l0VqDafjtmzkdrdyfRRV97FUHtoa\nJxeiLaEnAgMBAAECggEAGdHYtmgrbWNtpOQLOxqnyHYw7k8Q3KPZTE2cNQk6Ilkf\nDYrcB7nMwfLimmyFYqOMJs5s2Ohnv7gUhpGioHfiwB3/qgwZSHunvyISFbg4WvOS\nvcc0XiMEFb8p0PnknUcjGEA919+/0DoyTatr9aDY+iJSqYz3Qu9tSkN6LIjpeCpU\nFun/det8TqEl9uU6Hzh38izNH7yPZyOhVb0/0Yqarjhq56c3eX3A1544UJCEPyma\ncJBjM32QN03qYqBujoupqUJDQDi2MDNRfTuJZ6cSSqN67v0kDhrBDmjfEgSdSqyM\nQB+N1Lshwg3yTwT3sMQilHg5HWGxpDCcQagh5H8RsQKBgQDsi4vWII4KhNeCBhYi\neSJRf3mmonwhGCDUQPwB2WhXCv1f5LhcEtxCmenmhZc7hpY0OXAF6tfOzEg7Hkz9\nnja8RaK9iLDAdLjtL9LEOeDqKciJjYLfTDGwIMw2gsdP4nZHHMJlGOGJ7m/qpBfk\nqi1vDVAEhKOVBo503WguiNJBzwKBgQDO48UAqVvWIW2dQ7yXMt4d3ikyo/6xcSVp\n3ieuSxp7HjVs9LRQCD96F8GwuL1Er+9y79HZu67Zqw4pkXCZDqHWe6lAeRnR8kWn\nxoAs7yurW6rbOm0sM2OLuzR73e+G3QhCRvBLTHD7fVJIgS9gn4Pi39EdRI5HpkH/\nKEcTEwY5KQKBgQDkXcjQHjfjkeKZZhTijT4DnmUs6fua27d+E4r4ohMozbRWavNN\n+Otq5Ts60chysHm8y6MKI3Lb9L7bTGKaC6/eTgBSqW+zLj0GyD/cL+CjUVmI6vTp\nbZ8e4lslWVbhGcqE1xAaGE5OIsMrreZfXahlaV3SLtfa3SyVSNf27SLIYwKBgGcn\nIX5m8qcdG64hq9InRp/VuOzK355RL7pNTbOVNqrUMQcWKyEMO7oARk56jcPFhLnl\n4NeSwGc+5lzLazylEwQBvC2tM7Z9+UThr963kSprFhEgXHaBWMy+ljh8O4Ueh5Ok\nEwM4Jcz+exwzbQ/b+MIRng3dtKL8vkMeLfHQtnWhAoGBAN8sb+qusKHZmFqhbQKp\nxUS+57yXysbL/tQKDfTP8jOdMBT+tbyZkGHiM6SGyP1qgHd2xbpnMWfPt3lqsJuB\nar1oKGAoM1R4ZJ/x6k8zpy5ZNUvPIPZ3elQHnorXkZkkWXMXLBitcihgVPDIKDrW\nPPtIGVTEvFmnVmDxy26GPPJv\n-----END PRIVATE KEY-----\n",
+  "client_email": "voicetotext@smiling-pact-324809.iam.gserviceaccount.com",
+  "client_id": "102007694206569164585",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/voicetotext%40smiling-pact-324809.iam.gserviceaccount.com"
+}
